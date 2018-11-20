@@ -1,0 +1,147 @@
+	#homepageh
+	{
+		color: #b92b27 !important;
+	}
+	#homepagea
+	{
+		border-bottom: 2px solid #b92b27;
+	}
+	#mainquestiontab
+	{
+		float: right;
+		margin-top: 4%;
+		margin-right: 14%;
+		width: 58%;
+		background-color: #fafafa;
+		border-radius: 4px;
+		min-height: 60vh;
+	}
+	#newquestiontab
+	{
+		cursor: pointer;
+		margin-top: 2%;
+		width: 90%;
+		margin-bottom: 0;
+		margin-right: auto;
+		margin-left: auto;
+		border-radius: 4px;
+		background-color: white;
+	}
+	#newquestiontab h6
+	{
+		padding-top: 1%;
+		margin-bottom:0;
+		margin-left: 4%;
+		font-weight: normal;
+		color: #666;
+		font-size: 1.3vw;
+	}
+	#newquestiontab h4
+	{
+		padding-bottom: 1%;
+		margin-top:0.5%;
+		margin-left: 3%;
+		margin-bottom: 0;
+		color: #666;
+		font-size: 2vw;
+	}
+	#maincontenttab h6
+	{
+		color: #888;
+		font-size: 0.9vw;
+		padding-left: 3%;
+		padding-right: 3%;
+		margin-bottom: 0;
+		margin-top: 0; 
+		font-weight: normal;
+	}
+	#maincontenttab
+	{
+		margin-top: 2%;
+		width: 90%;
+		margin-right: auto;
+		margin-left: auto;
+		border-radius: 4px;
+		background-color: white;
+	}
+	#maincontenttab h2
+	{
+		margin-top: 1%;
+		padding-left: 3%;
+		padding-right: 3%;
+		color: #333;
+		margin-bottom: 0;
+		font-size: 1.8vw;
+	}
+	#maincontenttab h5
+	{
+		color: #666;
+		font-weight: normal;
+		padding-left: 3%;
+		padding-right: 3%;
+		font-size: 1.3vw;
+		margin-top: 1%;
+		margin-bottom: 0;
+	}
+	#answerbutton
+	{
+		width: 100%;
+		text-align: left;
+		padding-left: 3%;
+		font-size: 1.2vw;
+		margin-top: 1.5%;
+		border:none;
+		height: 5vh;
+		background-color: #f7f7f7;
+		border-radius: 4px;
+		color: #666; 
+	}
+	#answerbutton:hover, #answerhalfbutton:hover
+	{
+		color: #507cc0;
+		cursor: pointer;
+		font-weight: bold;
+	}
+	#mainquestiontab h1
+	{
+		color: #b92b27;
+		padding-left: 8%;
+		margin-top: 2%;
+		margin-bottom: 1%;
+		font-size: 1.8vw;
+	}
+		#answerhalfbutton
+	{
+		width: 49%;
+		text-align: left;
+		padding-left: 3%;
+		font-size: 1.2vw;
+		margin-top: 1.5%;
+		border:none;
+		margin-left: 0.6%;
+		height: 5vh;
+		margin-right: 0;
+		background-color: #f7f7f7;
+		border-radius: 4px;
+		color: #666; 
+	}
+	#deletehalfbutton:hover
+	{
+		color: #b92b27;
+		cursor: pointer;
+		font-weight: bold;
+	}
+	#deletehalfbutton
+	{
+		width: 49%;
+		text-align: left;
+		padding-left: 3%;
+		font-size: 1.2vw;
+		margin-top: 1.5%;
+		border:none;
+		height: 5vh;
+		background-color: #f7f7f7;
+		border-radius: 4px;
+		color: #666; 
+	}
+

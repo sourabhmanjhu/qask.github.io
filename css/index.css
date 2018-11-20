@@ -1,0 +1,151 @@
+body
+{
+	background-image: url("../images/1.jpg");
+}
+h6
+	{
+		text-align: center;
+		font-size: 1.2vw;
+		color: #666;
+		margin-bottom: 4%;
+		margin-top: 4%;
+	}
+#maindiv
+{
+	width: 	45%;
+	background-color: white;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%,-50%);
+	border-radius: 	12px;
+}
+#maindiv h1
+{
+	margin-top: 0.8%;
+	font-size: 	3vw;
+	text-align: center;	
+	color: #b92b27;
+		margin-bottom: 	0;
+}
+#maindiv h3
+{
+	margin-top: 0.6%;
+	color: grey;
+	font-size: 	2vw;
+	text-align: center;	
+}
+#maindiv h5
+{
+	margin-top: 2;
+	font-size: 	1.3vw;
+	text-align: center;
+	color: rgb(80,80,80);
+	margin-bottom: 	4%;
+}
+#maindiv input[type="text"], #maindiv input[type="password"]
+{
+	background-color: #eee;
+	border-radius: 	8px;
+	border: 1px solid #bbb;
+	height: 28px;
+	padding-left: 2%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 	50%;
+	margin-top: 1%;
+	font-size: 	1vw;
+}
+#forgotpassword
+{
+	text-decoration: none;
+	color: #666;
+	margin-left:25%;
+	font-size: 	1.1vw;
+}
+#forgotpassword:hover
+{
+	text-decoration: underline;
+}
+#maindiv input[type="submit"], #maindiv input[type="reset"], #maindiv input[type="button"]
+{
+	background-color: #9fbcd6;
+	border-radius: 4px;
+	border: 1px solid #bbb;
+	color: white;
+	width: 	8%;
+	height: 28px;
+	margin-left: 23%;
+	margin-top: 1%;
+	font-size: 	1vw;
+}
+#maindiv input[type="submit"]:hover, #maindiv input[type="button"]:hover
+{
+	background-color: #507cc0;
+	cursor: pointer;
+}
+#maindiv input[type="reset"]
+{
+	cursor: pointer;
+}
+#newaccount
+{
+	display:block;	
+	text-decoration: 	none;
+	color: #df4930;
+	text-align: 	center;
+	margin-top: 4%;
+	font-size: 	1.3vw;
+}
+#newaccount:hover
+{
+	text-decoration: underline;
+}
+#about
+{
+	text-decoration: 	none;
+	color: #666;
+	font-size: 1.2vw;
+	margin-left: 41%;
+}
+#contactus
+{
+	text-decoration: none;
+	color: #666;
+	font-size: 	1.2vw;
+	margin-left: 1%;
+}
+#about:hover, #contactus:hover
+{
+	text-decoration: underline;
+}
+table
+{
+		margin-left: 27%;
+		font-size: 1.4vw;
+		width: 60%;
+}
+table td
+{
+		color: #df4930;
+		width: 50%;
+}
+#registerdiv2, #registerdiv3
+{
+		display: none;
+}
+#maindiv input[type="checkbox"]
+{
+		margin-left: 28%;
+		margin-right: 4%;
+}
+#maindiv input[type="checkbox"]:hover
+{
+	cursor: pointer;
+}
+#preferences
+{
+		color: #df4930;
+		font-size: 1.3vw;
+}

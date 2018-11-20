@@ -1,0 +1,31 @@
+		#askeddiv h1
+		{
+			margin-top: 6%;
+			margin-left: 25%;
+			color: #333;
+			font-size: 2.5vw;
+			margin-bottom: 0;
+		}
+		#askeddiv h3
+		{
+			margin-left: 25%;
+			color: #666;
+			font-size: 1.5vw;
+			margin-top: 0.5%;
+		}
+		#homepageh
+		{
+			color: #666 !important;
+		}
+		#homepagea
+		{
+			border:none;
+		}
+		#answerh
+		{
+			color: #b92b27 !important;
+		}
+		#answera
+		{
+			border-bottom: 1px solid #b92b27;
+		}

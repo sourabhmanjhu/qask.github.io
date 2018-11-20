@@ -1,0 +1,28 @@
+	#sidemenu
+	{
+		float: left;
+		margin-top: 6%;
+		margin-left: 14%;
+		width: 10%;
+		min-height: 80vh;
+		display: block;
+		border-radius: 4px;
+		font-size: 2vw;
+		color: #666;
+		}
+	#sidemenu a
+	{
+		border-radius: 4px;
+		font-size: 1.3vw;
+		display: block;
+		text-decoration: none;
+		color: #666;
+		margin-top: 6%;
+		padding-left: 4%;
+		padding-top: 2%;
+		padding-bottom: 2%;
+	}
+		#sidemenu a:hover
+	{
+		background-color: #eaeaea;
+	}

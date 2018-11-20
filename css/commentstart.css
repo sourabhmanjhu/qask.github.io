@@ -1,0 +1,122 @@
+	#maincontenttab h6, #commenttab h6
+	{
+		color: #888;
+		font-size: 0.9vw;
+		padding-left: 3%;
+		padding-right: 3%;
+		margin-bottom: 0;
+		margin-top: 0; 
+		font-weight: normal;
+	}
+	#maincontenttab, #answertab
+	{
+		margin-top: 6%;
+		width: 52%;
+		margin-right: auto;
+		margin-left: auto;
+		border-radius: 4px;
+		background-color: white;
+	}
+	#maincontenttab h2
+	{
+		margin-top: 1%;
+		padding-left: 3%;
+		padding-right: 3%;
+		color: #333;
+		margin-bottom: 0;
+		font-size: 1.8vw;
+	}
+	#maincontenttab h5
+	{
+		color: #666;
+		font-weight: normal;
+		padding-left: 3%;
+		padding-right: 3%;
+		font-size: 1.3vw;
+		margin-top: 1%;
+		margin-bottom: 0;
+	}	
+	#answertab
+	{
+		margin-top: 2%;
+	}
+	#answertab h2
+	{
+		font-size: 1.5vw;
+		color: #444;
+		padding-left: 3%;
+		margin: 0;
+	}
+	textarea
+	{
+		width: 50%;
+		height: 10vh;
+		margin-left: auto;
+		margin-right: auto;
+		display: block;
+		border-radius: 4px;
+		border: 1px solid #eaeaea;
+		font-size: 1.2vw;
+		padding-left: 1%;
+		padding-right: 1%;
+		color: #888;
+		font-family: sans-serif;
+		padding-top: 1%;
+		padding-bottom: 1%;
+		margin-top: 2%;
+	}
+	#postbutton
+	{
+		margin-top: 0.5%;
+		margin-left: 25%;
+		border-radius: 4px;
+		border: 1px solid #bbb;
+		background-color: #9fbcd6;
+		color: white;
+		width: 4%;
+		font-size: 1vw;
+		height: 4vh;		
+	}
+	#postbutton:hover
+	{
+	background-color: #507cc0;
+	cursor: pointer;
+	}
+	#commenttab
+	{
+		margin-top: 1%;
+		background-color: white;
+		width: 52%;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	#commenttab h2
+	{
+		color: #666;
+		font-weight: normal;
+		padding-left: 3%;
+		padding-right: 3%;
+		font-size: 1.5vw;
+		margin-top: 1.5%;
+		padding-bottom: 1.5%;
+		margin-bottom: 0;
+	}
+	#deletebutton
+	{
+		width: 100%;
+		text-align: left;
+		padding-left: 3%;
+		font-size: 1.2vw;
+		margin-top: 1.5%;
+		border:none;
+		height: 5vh;
+		background-color: #f7f7f7;
+		border-radius: 4px;
+		color: #666; 
+	}
+	#deletebutton:hover
+	{
+		color: #b92b27;
+		cursor: pointer;
+		font-weight: bold;	
+	}
